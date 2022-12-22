@@ -1,6 +1,6 @@
 /**
  * Bike
- * 
+ *
  * By: Igor
  * Version: 1.0
  * Since:   2022-10-21
